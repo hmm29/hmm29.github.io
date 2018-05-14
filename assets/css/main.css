@@ -2132,7 +2132,7 @@
 
 	@media screen and (max-width: 480px) {
 
-		#line-break-tagline {
+		.line-break-tagline {
 			display: none;
 		}
 
